@@ -1,0 +1,18 @@
+->create two lists
+
+->user will input no. of elements for both lists
+
+->user will input elements for both lists
+
+list convert number
+
+number convert list
+
+ls1=[1,2,3,4]=>1234
+ls2=[1,2,3,4]=>1234
+
+number convert list
+
+addition=>2468=>[2,4,6,8]
+
+multiplication=>1522756=>[1,5,2,2,7,5,6]
